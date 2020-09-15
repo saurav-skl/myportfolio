@@ -1,0 +1,52 @@
+{
+    "name": "Test",
+    "experiences": [
+        {
+            "company": "CodeForces",
+            "profile": "infinity1_1",
+            "image": "codeforces.jpg"
+        },
+        {
+            "company": "CodeChef",
+            "profile": "saurav_2233",
+            "image": "codechef.jpg"
+        },
+        {
+            "company": "LeetCode",
+            "profile": "sauravlal_2233",
+            "image": "leetcode.jpg"
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.Tech",
+            "institution": "JALPAIGURI GOVERNMENT ENGINEERING COLLEGE"
+        },
+        {
+            "degree": "Higher Secondary",
+            "institution": "D.A.V. Public School, E.C.L. Pandaveswar"
+        }
+    ],
+    "skills": [
+        {
+            "name": "HTML5",
+            "image": "html.svg"
+        },
+        {
+            "name": "Javascript",
+            "image": "javascript.svg"
+        },
+        {
+            "name": "React",
+            "image": "react.svg"
+        },
+        {
+            "name": "Node.js",
+            "image": "nodejs.svg"
+        },
+        {
+            "name": "Gatsby",
+            "image": "gatsbyjs.svg"
+        }
+    ]
+}
