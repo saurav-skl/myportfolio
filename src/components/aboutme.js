@@ -12,17 +12,17 @@ export default () => (
                 Hey, Everyone these is Saurav here,
             </h2>
             <div class="about-info">
-                <img src="img/portrait.jpg" alt="Saurav Lal" class="bio-image"/>
+                <img src="img/portrait.jpg" alt="Saurav Lal" class="bio-image" />
 
-                    <div class="bio">
-                        <h3 class="text-secondary">BIO</h3>
-                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deserunt magni nam nisi quae vitae? Quod
-                        molestiae ipsa
-                        autem natus eum vel ducimus nulla harum voluptatem eligendi! Unde, reiciendis? Praesentium,
+                <div class="bio">
+                    <h3 class="text-secondary">BIO</h3>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deserunt magni nam nisi quae vitae? Quod
+                    molestiae ipsa
+                    autem natus eum vel ducimus nulla harum voluptatem eligendi! Unde, reiciendis? Praesentium,
                     laborum.</p>
-                    </div>
-        </div>
-    </main>
+                </div>
+            </div>
+        </main>
     </Fragment>
 
-        );
+);

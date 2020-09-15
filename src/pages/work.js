@@ -37,7 +37,7 @@ export default () => (
                         <div className="mask">
                             <h2>Personal Portfolio</h2>
                             <p>Personal Portfolio using Reactjs Framework Gatsby</p>
-                            <a href="" rel="noreferrer noopener" target="_blank" className="info">Read More</a>
+                            <a href="https://github.com/saurav-skl" rel="noreferrer noopener" target="_blank" className="info">Read More</a>
                         </div>
                     </div>
                 </div>

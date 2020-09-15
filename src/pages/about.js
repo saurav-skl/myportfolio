@@ -34,7 +34,7 @@ export default (props) => (
                     <img src={portrait} alt="Saurav Lal" className="bio-image" />
 
                     <div className="bio">
-                        <h3 className="text-secondary"></h3>
+                        {/* <h3 className="text-secondary"></h3> */}
                         <p>
                         I'm a student at Jalpaiguri Government Engineering College in the prefinal year, pursuing my Bachelor's degree major in Electronics & Communication Engineering. 
                         I'm very passionate about learning new web tech and tools. I'm actively participating in a competitive coding contest organized in Codechef and Codeforces.
@@ -66,7 +66,6 @@ export default (props) => (
                         <div key={key} className="grid-item">
                             <h3>{item.degree}</h3>
                             <h5>{item.institution}</h5>
-                            <h5>Electronics and Communication Engineering Department     <span style={{"fontStyle": "italic"}}>(2018-present)</span></h5>
                         </div>
                     )}
 
@@ -97,9 +96,7 @@ export const IndexQuery = graphql`
         name,
         experiences{
             company,
-            years,
-            designation,
-            desc
+            profile
         },
         education{
             degree,

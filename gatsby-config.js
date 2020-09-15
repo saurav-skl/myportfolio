@@ -5,10 +5,10 @@ module.exports = {
         titleTemplate: 'Gopesh Gopinath',
         description:
             'Full Stack Javascript Developer',
-        url: 'https://gopeshgopinath.com', // no trailing slash!
+        url: 'https://github.com/saurav-skl', // no trailing slash!
         image: `/images/web.jpg`,
-        owner: 'Gopesh Gopinath',
-        twitterUsername: '@GopeshMedayil',
+        owner: 'Saurav Lal',
+        twitterUsername: '@SauravLal9',
     },
     plugins: [
         {
@@ -28,8 +28,8 @@ module.exports = {
         {
             resolve: `gatsby-plugin-manifest`,
             options: {
-                name: "Gopesh Gopinath | Full Stack Javascript Developer",
-                short_name: "Gopesh",
+                name: "Saurav Lal | Student",
+                short_name: "Saurav",
                 start_url: "/",
                 background_color: "#6b37bf",
                 theme_color: "#6b37bf",
